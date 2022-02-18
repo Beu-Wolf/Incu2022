@@ -10,3 +10,5 @@ Repository to store all the homeworks and exercises for the my Automation Track 
 * [hello.py](./Git-homework/hello.py)
 
 ### Homework-python
+
+* [First Homework](<./Homework-python/SW Design.ipynb>)
