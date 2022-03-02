@@ -11,6 +11,8 @@ In `sporty_flask.py`, change the relevant variables with your own identifiers:
 * `auth_token` (redacted for security reasons)
 * `polygon_api` (redacted for security reasons)
 
+Set the `FLASK_APP` environment variable: `export FLASK_APP=sporty_flask.py`
+
 Run with `flask run`
 
 **NOTE:** Make sure you have `ngrok` running and forwarding to port `5000`, as well has the webhook properly configured
