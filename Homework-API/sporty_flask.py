@@ -53,7 +53,7 @@ def search_ticker(message: list) -> str:
     if len(message) == 1 or message[1] == "help":
         formatted_response = """
                 Search for any company and get information on its tickers and primary exchange
-                Usage: serch-ticker help | \<company-name\> [\<exchange\>]
+                Usage: search-ticker help | \<company-name\> [\<exchange\>]
                  - help : get this message
                  - company-name: name of the company to search for
                  - exchange: filter by a certain exchange
