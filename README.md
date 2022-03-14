@@ -19,3 +19,8 @@ Repository to store all the homeworks and exercises for the my Automation Track 
 ### Homework-API
 
 * [Sporty-Bot](./Homework-API/sporty_flask.py)
+
+### Homework-CiscoAPI
+
+* [Postman Environment Variables](./Homework-CiscoAPI/Incubator%202022.postman_environment.json)
+* [Postman Meraki API calls](./Homework-CiscoAPI/Meraki.postman_collection.json)
